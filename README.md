@@ -13,7 +13,6 @@
 I learn best by building, making mistakes, and figuring things out along the way.
 Always open to collaborating, sharing knowledge, and picking up something new every day.
 If you’re into creating cool things and learning as you go, we’ll get along just fine.</p>
-<br>
 
 
 
