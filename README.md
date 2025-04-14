@@ -39,7 +39,8 @@ If you’re into creating cool things and learning as you go, we’ll get along 
   </a>
   
 </div>
-<p>(Just Click Anyone)</p>
+<div align="center">
+<p>(Just Click Anyone)</p></div>
 <br>
 
 
