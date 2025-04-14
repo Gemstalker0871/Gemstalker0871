@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="center">Hey there! I’m a passionate learner exploring the world of tech and innovation.<br>I’m always up for collaborations and learning something new every day.</p>
+<p align="left">Hey there! I’m a passionate learner exploring the world of tech and innovation.<br>I’m always up for collaborations and learning something new every day.</p>
 
 ###
 
