@@ -5,6 +5,7 @@
 <br clear="both">
 
 <p align="center">Hey there! I’m a passionate learner exploring the world of tech and innovation.<br>I’m always up for collaborations and learning something new every day.</p>
+<br>
 
 ###
 
@@ -26,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
+<br>
 ###
 
 <h1 align="center">Tech Stacks</h1>
@@ -74,7 +75,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
-
+<br>
 ###
 
 <h1 align="center">Some Stats</h1>
@@ -100,7 +101,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gemstalker0871&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
+<br>
 ###
 
 <h1 align="center">Something Smart</h1>
