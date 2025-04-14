@@ -1,17 +1,17 @@
 <h1 align="center">Hello World!!</h1>
 
-###
+
 
 <br clear="both">
 
 <p align="center">Hey there! I’m a passionate learner exploring the world of tech and innovation.<br>I’m always up for collaborations and learning something new every day.</p>
 <br>
 
-###
+
 
 <h1 align="center">Connect With Me</h1>
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sambhavchugh/" target="_blank">
@@ -32,7 +32,7 @@
 
 <h1 align="center">Tech Stacks</h1>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -76,11 +76,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 <br>
-###
+
 
 <h1 align="center">Some Stats</h1>
 
-###
+
 
 <br clear="both">
 
@@ -90,11 +90,11 @@
   <img src="https://streak-stats.demolab.com?user=Gemstalker0871&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+
 
 <p align="left"></p>
 
-###
+
 
 <br clear="both">
 
@@ -102,14 +102,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gemstalker0871&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 <br>
-###
+
 
 <h1 align="center">Something Smart</h1>
 
-###
+
 
 <div align="center">
   <img height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"  />
 </div>
 
-###
+
