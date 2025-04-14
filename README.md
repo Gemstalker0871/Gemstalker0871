@@ -1,7 +1,8 @@
-
-  <span style="border-bottom: 2px solid #555; padding-bottom: 6px; font-size: 82px;">
+<h1 align="center">
+  <span style="border-bottom: 3px solid #555; padding-bottom: 10px; font-size: 100px; font-weight: 600;">
     𝓗𝓮𝓵𝓵𝓸 𝓦𝓸𝓻𝓵𝓭!!
   </span>
+</h1>
 
 
 
