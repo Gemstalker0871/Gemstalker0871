@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="border-bottom: 2px solid #555; padding-bottom: 6px; font-size: 32px;">
-    𝙷𝙴𝙻𝙻𝙾 𝚆𝙾𝚁𝙻𝙳 !!
+    ＨＥＬＬＯ　ＷＯＲＬＤ！！
   </span>
 </h1>
 
