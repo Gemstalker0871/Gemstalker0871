@@ -16,7 +16,11 @@ If you’re into creating cool things and learning as you go, we’ll get along 
 
 
 
-<h1 align="center">Connect With Me</h1>
+<h1 align="center">
+  <span style="border-bottom: 2px solid #777; padding-bottom: 4px; font-size: 28px;">
+    𝙲𝙾𝙽𝙽𝙴𝙲𝚃 𝚆𝙸𝚃𝙷 𝙼𝙴
+  </span>
+</h1>
 
 
 
@@ -37,7 +41,11 @@ If you’re into creating cool things and learning as you go, we’ll get along 
 <br>
 
 
-<h1 align="center">Tech Stacks</h1>
+<h1 align="center">
+  <span style="border-bottom: 2px solid #888; padding-bottom: 4px; font-size: 28px;">
+    𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺𝚂
+  </span>
+</h1>
 
 
 
@@ -85,7 +93,11 @@ If you’re into creating cool things and learning as you go, we’ll get along 
 <br>
 
 
-<h1 align="center">Some Stats</h1>
+<h1 align="center">
+  <span style="border-bottom: 2px solid #999; padding-bottom: 4px; font-size: 28px;">
+    𝚂𝙾𝙼𝙴 𝚂𝚃𝙰𝚃𝚂
+  </span>
+</h1>
 
 
 
@@ -111,7 +123,11 @@ If you’re into creating cool things and learning as you go, we’ll get along 
 <br>
 
 
-<h1 align="center">Something Smart</h1>
+<h1 align="center">
+  <span style="border-bottom: 2px solid #aaa; padding-bottom: 4px; font-size: 28px;">
+    𝚂𝙾𝙼𝙴𝚃𝙷𝙸𝙽𝙶 𝚂𝙼𝙰𝚁𝚃
+  </span>
+</h1>
 
 
 
