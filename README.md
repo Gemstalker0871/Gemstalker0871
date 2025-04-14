@@ -4,7 +4,10 @@
 
 <br clear="both">
 
-<p align="center">Hey there! I’m a passionate learner exploring the world of tech and innovation.<br>I’m always up for collaborations and learning something new every day.</p>
+<p align="center">Hey there! I’m a curious tech enthusiast who enjoys exploring new ideas and turning them into real projects.
+I learn best by building, making mistakes, and figuring things out along the way.
+Always open to collaborating, sharing knowledge, and picking up something new every day.
+If you’re into creating cool things and learning as you go, we’ll get along just fine.</p>
 <br>
 
 
