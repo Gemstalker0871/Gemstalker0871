@@ -1,4 +1,4 @@
-<h1 align="left">Hello World!!</h1>
+<h1 align="center">Hello World!!</h1>
 
 ###
 
@@ -8,11 +8,11 @@
 
 ###
 
-<h1 align="left">Connect With Me</h1>
+<h1 align="center">Connect With Me</h1>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/sambhavchugh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -29,7 +29,7 @@
 
 ###
 
-<h1 align="left">Tech Stacks</h1>
+<h1 align="center">Tech Stacks</h1>
 
 ###
 
@@ -63,7 +63,7 @@
 
 ###
 
-<h1 align="left">Some Stats</h1>
+<h1 align="center">Some Stats</h1>
 
 ###
 
@@ -89,7 +89,7 @@
 
 ###
 
-<h1 align="left">Something Smart</h1>
+<h1 align="center">Something Smart</h1>
 
 ###
 
