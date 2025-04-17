@@ -109,7 +109,7 @@ If you’re into creating cool things and learning as you go, we’ll get along 
   <img 
   src="https://streak-stats.demolab.com?user=Gemstalker0871&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5&order=3" 
   height="150" 
-  alt=" " 
+  alt="graph " 
   
   onerror="this.style.display='none';"
 />
