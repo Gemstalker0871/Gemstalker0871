@@ -109,6 +109,12 @@ If you’re into creating cool things and learning as you go, we’ll get along 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gemstalker0871&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Gemstalker0871&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+<p>---------------------</p>
+![](https://github-readme-stats.vercel.app/api?username=Gemstalker0871&theme=moltack&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Gemstalker0871&theme=moltack&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gemstalker0871&theme=moltack&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=Gemstalker0871&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
