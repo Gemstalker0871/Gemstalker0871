@@ -2,6 +2,8 @@
   <span style="border-bottom: 3px solid #555; padding-bottom: 10px; font-size: 100px; font-weight: 600;">
     𝓗𝓮𝓵𝓵𝓸 𝓦𝓸𝓻𝓵𝓭!!
   </span>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F718&background=0D1117&center=true&vCenter=true&width=800&lines=Welcome+to+my+digital+playground!;Crafting+seamless+web+experiences+since+2024;Turning+ideas+into+interactive+reality;Open-source+enthusiast+and+problem+solver)](https://git.io/typing-svg)
+
 </h1>
 
 
