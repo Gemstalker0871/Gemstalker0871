@@ -1,3 +1,4 @@
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=+JetBrains+Mono&weight=500&size=30&pause=1000&color=86092C&background=F5E1C0&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+playground" alt="Typing SVG" /></a>
 </div>
