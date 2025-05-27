@@ -10,10 +10,6 @@
 </h1>
 
 
-
-
-
-
 <p align="center">Hey there! I’m a curious tech enthusiast who enjoys exploring new ideas and turning them into real projects.
 I learn best by building, making mistakes, and figuring things out along the way.
 Always open to collaborating, sharing knowledge, and picking up something new every day.
