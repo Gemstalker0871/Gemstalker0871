@@ -1,7 +1,6 @@
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=+JetBrains+Mono&weight=500&size=30&pause=1000&color=86092C&background=F5E1C0&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+playground" alt="Typing SVG" /></a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=86092C&background=FFFFFF00&vCenter=true&width=600&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a></div>
   <h1 align="center">
   <span style="border-bottom: 3px solid #555; padding-bottom: 10px; font-size: 100px; font-weight: 600;">
     𝓗𝓮𝓵𝓵𝓸 𝓦𝓸𝓻𝓵𝓭!!
