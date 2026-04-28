@@ -22,8 +22,7 @@ If you’re into creating cool things and learning as you go, we’ll get along 
 </h1>
 
 
-
-<div align="center" style="display: flex; justify-content: center; gap: 12px;">
+<p align="center">
   <a href="https://www.linkedin.com/in/sambhavchugh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
   </a>
@@ -36,7 +35,7 @@ If you’re into creating cool things and learning as you go, we’ll get along 
   <a href="https://www.instagram.com/sambhav.chugh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
   </a>
-</div>
+</p>
 
 
 <h1 align="center">
